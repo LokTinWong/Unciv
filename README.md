@@ -1,4 +1,5 @@
 # Unciv - Civ V remake for Android & Desktop
+This fork is LokTinWong's attempt to perform pending translations for Chinese (Traditional), but is no longer up-to-date, as others have made new translations before his pull request could be approved by Unciv's creator.
 
 ![](/extraImages/GithubPreviewImage.jpg)
 
